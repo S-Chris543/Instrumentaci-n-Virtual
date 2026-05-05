@@ -3,7 +3,9 @@ Aquí se subirán las tareas, prácticas y examenes correspondientes a la materi
 
 Integrantes del equipo:
 Christian Emmanuel Castruita Alaniz 
+
 Andrea Bonilla 
+
 Magda
 
 Grupo: 3MM3
