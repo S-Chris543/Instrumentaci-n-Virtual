@@ -1,5 +1,5 @@
 # Instrumentaci-n-Virtual
-Aquí se subirán las tareas, prácticas y examenes correspondientes a la materia de instrumentación virtual
+Aquí se subirán las tareas, prácticas y examenes correspondientes a la materia de instrumentación virtual impartida por el maestro Ramón Jaramillo Martínez
 
 Grupo: 3MM3
 
