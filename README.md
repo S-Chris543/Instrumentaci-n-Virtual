@@ -7,6 +7,6 @@ Integrantes del equipo:
 
 Christian Emmanuel Castruita Alaniz 
 
-Andrea Bonilla 
+Andrea Bonilla Hernandez
 
-Magda
+Angélica Magdalena Hernández Acuña
